@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+Simple test app written for better understanding of AngularJS and Bootstrap with Grails.
+It is so simple as could be: no validation errors show, no beauty in design, it just fits in requirements.
